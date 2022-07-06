@@ -1,7 +1,7 @@
 
 # Perceptron
 
-Algorithm written from scratch.
+Program written from scratch.
 
 In machine learning, the perceptron is an algorithm for supervised learning of 
 binary classifiers. A binary classifier is a function which can decide whether 
